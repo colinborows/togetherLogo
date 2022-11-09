@@ -14,9 +14,14 @@ COLOR
 
 Colors are tweaked slightly the original mockups. Hex codes below -
 
-Light Blue: EF7D54	
-Dark Blue: E55151
-Light Red: B8F2FF
-Dark Red: 54B7D0
-Black: 000000
-White: FFFFFF
+Light Blue: #EF7D54	
+
+Dark Blue: #E55151
+
+Light Red: #B8F2FF
+
+Dark Red: #54B7D0
+
+Black: #000000
+
+White: #FFFFFF
